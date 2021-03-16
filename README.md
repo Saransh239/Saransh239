@@ -17,3 +17,8 @@
 - ⚡ Fun fact - **I love to play games**
 <br>
 <a href="https://www.linkedin.com/in/saransh-surinder-308907163/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohang4837b4124" height="30" width="40" /></a>
+
+&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh239&layout=compact" alt="Saransh239" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saransh239&show_icons=true" alt="Saransh239" /></p>
