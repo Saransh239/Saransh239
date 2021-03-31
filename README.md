@@ -21,4 +21,4 @@
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh239&layout=compact" alt="Saransh239" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saransh239&show_icons=true" alt="Saransh239" /></p>
+
